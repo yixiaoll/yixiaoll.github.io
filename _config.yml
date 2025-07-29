@@ -23,7 +23,7 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yixiao Li"
+  name             : # "Yixiao Li"
   pronouns         : "he/him"  
   bio              : "Graduate Student"
   location         : "State College, PA"
