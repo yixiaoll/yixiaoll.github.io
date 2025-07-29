@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a first‑year Ph.D. student in **[Penn State’s College of Information Sciences and Technology](https://ist.psu.edu/)**, advised by **[Dr. Saeed Abdullah](https://saeedabdullah.com/)**. Before coming to Penn State, I spent a wonderful year at **[Pitt SCI](https://www.sci.pitt.edu/)** working as a course coordinator for the **[MDS program](https://www.sci.pitt.edu/academics/masters-degrees/data-science)** after completing my master’s in information science there. During that time, I worked on several interesting projects in computational social science and NLP—including studies of gendered immigration, postgraduate labor dynamics, and online hate speech. Earlier, I earned my B.E. in Software Engineering from Zhengzhou University in China, where my undergraduate thesis explored medical‑image classification.
+I’m a first‑year Ph.D. student in [Penn State’s College of Information Sciences and Technology](https://ist.psu.edu/), advised by [Dr. Saeed Abdullah](https://saeedabdullah.com/). Before coming to Penn State, I spent a wonderful year at [Pitt SCI](https://www.sci.pitt.edu/) working as a course coordinator for the [MDS program](https://www.sci.pitt.edu/academics/masters-degrees/data-science) after completing my master’s in information science there. During that time, I worked on several interesting projects in computational social science and NLP—including studies of gendered immigration, postgraduate labor dynamics, and online hate speech. Earlier, I earned my B.E. in Software Engineering from Zhengzhou University in China, where my undergraduate thesis explored medical‑image classification.
 
 <!--
 
