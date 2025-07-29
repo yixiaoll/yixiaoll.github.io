@@ -1,5 +1,4 @@
----
-layout: home       
+---  
 title:  "Yixiao Li"
 permalink: /
 author_profile: true  
